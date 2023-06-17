@@ -23,13 +23,3 @@ VALUES ("John", "Doe", 1, NULL),
        ("Malia", "Brown", 6, 5),
        ("Sarah", "Lourd", 7, NULL),
        ("Tom", "Allen", 8, 7);
-
--- INSERT INTO manager (manager_name)
--- VALUES ("John Doe"),
---        ("Mike Chan"),
---        ("Ashley Rodriguez"),
---        ("Kevin Tupik"),
---        ("Kunal Singh"),
---        ("Malia Brown"),
---        ("Sarah Lourd"),
---        ("Tom Allen");
