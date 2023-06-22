@@ -1,7 +1,7 @@
 // Import and require mysql2
 const express = require('express');
 const msysql = require('mysql2');
-
+const inquirer = require("inquirer");
 const PORT = process.env.PORT || 3001;
 const app = express();
 
